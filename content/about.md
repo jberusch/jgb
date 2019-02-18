@@ -1,3 +1,7 @@
+---
+title: "about me"
+---
+
 # Joe Berusch
 
 ### basic facts
@@ -17,23 +21,10 @@
     * juvenile sentencing policy
 * less serious
     * musical theater
-    * things built by hand
+    * tech history
     * spikeball on the beach
     * live recordings of rock performances (Springsteen, Eagles, Queen)
     * meeting new people
-</p>
-</details>
-
-
-<details>
-<summary>places i worked -- roles i had</summary>
-<p>
-
-* small, student-run social media startup -- software engineer & general advisor
-* non-profit student public policy think tank -- project manager
-* medical malpractice law firm -- marketing intern
-* construction company -- general laborer (i carried lots of stuff)
-* city of shaker heights -- tennis camp counselor
 </p>
 </details>
 
@@ -58,13 +49,32 @@
 </p></details>
 
 <details>
-<summary>tv shows & movies i watched</summary>
+<summary>places i worked -- roles i had</summary>
 <p>
 
-* Game of Thrones
-* Rick & Morty
-* Bojack Horseman
-* Drive
-* The Place Beyond the Pines
-* Caddyshack
-</p></details>
+* small, student-run social media startup -- software engineer & general advisor
+* non-profit student public policy think tank -- project manager
+* medical malpractice law firm -- marketing intern
+* construction company -- general laborer (i carried lots of stuff)
+* city of shaker heights -- tennis camp counselor
+</p>
+</details>
+
+<details>
+<summary>(some) classes i took</summary>
+<p>
+
+* **computer science**
+    * intro to cs (data structures, algorithms, etc)
+    * intro to computer systems (memory management, assembly code, processes/threads, etc)
+    * networks & distributed systems
+    * math foundations of machine learning
+* **humanities**
+    * intro to the humanities (writing-intensive crash course in western traditions, poststructuralism, etc)
+    * race & politics in the U.S. (upper-level political science discussion)
+    * political rhetoric
+* **other**
+    * commercializing innovation (intro to VC course taught @ChicagoBooth)
+    * business of non-profits (applied non-profit consulting)
+</p>
+</details>
