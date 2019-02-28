@@ -78,3 +78,6 @@ title: "about me"
     * business of non-profits (applied non-profit consulting)
 </p>
 </details>
+
+[<img src="/img/linkedin_logo.png" style="height: 75px; width: 75px; display: inline-block"/>](https://www.linkedin.com/in/joe-b-a60b71117/)
+[<img src="/img/github-logo.png" style="height: 50px; width: 50px; display: inline-block;"/>](https://www.github.com/jberusch)
