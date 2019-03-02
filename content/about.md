@@ -1,7 +1,3 @@
----
-title: "about me"
----
-
 # Joe Berusch
 
 ### basic facts
@@ -53,7 +49,7 @@ title: "about me"
 <p>
 
 * small, student-run social media startup -- software engineer & general advisor
-* non-profit student public policy think tank -- project manager
+* student public policy think tank -- project manager
 * medical malpractice law firm -- marketing intern
 * construction company -- general laborer (i carried lots of stuff)
 * city of shaker heights -- tennis camp counselor
@@ -61,7 +57,7 @@ title: "about me"
 </details>
 
 <details>
-<summary>(some) classes i took</summary>
+<summary>classes i took</summary>
 <p>
 
 * **computer science**
@@ -79,5 +75,7 @@ title: "about me"
 </p>
 </details>
 
-[<img src="/img/linkedin_logo.png" style="height: 75px; width: 75px; display: inline-block"/>](https://www.linkedin.com/in/joe-b-a60b71117/)
-[<img src="/img/github-logo.png" style="height: 50px; width: 50px; display: inline-block;"/>](https://www.github.com/jberusch)
+<div>
+[<img src="/img/linkedin_logo.png" style="height: 75px; width: 75px; display: inline-block;"/>](https://www.linkedin.com/in/joe-b-a60b71117/)
+[<img src="/img/github-logo.png" style="height: 45px; width: 45px; display: inline-block; margin-bottom: 45px;"/>](https://www.github.com/jberusch)
+<div>

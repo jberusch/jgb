@@ -4,13 +4,23 @@ date: 2018-02-13T12:21:57-05:00
 
 ---
 
-These are some of my projects! Click for descriptions.
-#### Key:
+-- *this page is in progress* --
 
-* `**proj_name` == proposed
-* `*proj_name` == in progress
-* `proj_name` == done
+These are some projects I've worked on! Some are completed, others in progress, and a few proposed. Click for descriptions.
 
-<hr>
+#### By Category:
+##### Acadmic
+* <a href="/posts/chitcp">chiTCP</a>
+* <a href="/posts/chirc">chIRC</a>
+* <a href="/posts/shell">shell</a>
 
-#### List:
+##### Professional 
+* <a href="/posts/fuse">Fuse</a>
+
+##### For Fun
+* <a href="/posts/"></a>
+
+
+<br /><br /><br /><br /><br />
+<hr />
+#### Chronological Order:

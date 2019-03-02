@@ -1,5 +1,5 @@
 ---
-title: "*JAR v1"
+title: "JAR v1"
 date: 2017-01-22T00:00:00Z
 showDate: false
 tags: ["robotics","computer vision"]
