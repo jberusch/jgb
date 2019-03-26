@@ -6,7 +6,7 @@ draft: false
 tags: ["academic","networking"]
 ---
 
-implemented Transmission Control Protocol (TCP), usinc C.
+Implemented Transmission Control Protocol (TCP), usinc C.
 
 **Class**: CMSC 23300 -- Networks & Distributed Systems
 
@@ -14,4 +14,4 @@ implemented Transmission Control Protocol (TCP), usinc C.
 
 
 
-**Score**: Forthcoming
+**Score**: 93/100

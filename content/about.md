@@ -3,7 +3,8 @@
 ### basic facts
 **attends** university of chicago '21\\
 **studies** computer science\\
-**from** Cleveland Heights & Shaker Heights, Ohio
+**from** Cleveland Heights & Shaker Heights, Ohio\\
+**contact** joeberusch [at] gmail [dot] com
 
 <details>
 <summary>topics that fascinate & excite me</summary>
