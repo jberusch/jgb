@@ -49,6 +49,7 @@
 <summary>places i worked -- roles i had</summary>
 <p>
 
+* george shultz innovation fund -- associate
 * small, student-run social media startup -- software engineer & general advisor
 * student public policy think tank -- project manager
 * medical malpractice law firm -- marketing intern
@@ -66,6 +67,8 @@
     * intro to computer systems (memory management, assembly code, processes/threads, etc)
     * networks & distributed systems
     * math foundations of machine learning
+    * engineering interactive decides (HCI engineering)
+    * data vizualization
 * **humanities**
     * intro to the humanities (writing-intensive crash course in western traditions, poststructuralism, etc)
     * race & politics in the U.S. (upper-level political science discussion)

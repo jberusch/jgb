@@ -20,7 +20,9 @@ If you have any questions, ask me about them!
 * <a href="/posts/chapel_talk">No Photo, No Vote-O</a>
 
 ##### Professional 
+* <a href="/posts/ifa">Due Diligence: Transnostics</a>
 * <a href="/posts/mvp">Midway Venture Partners</a>
+* <a href="/posts/ucr_diligence">Due Diligence: Brockhampton & 88Rising</a>
 * <a href="/posts/fuse">Fuse</a>
 * <a href="/posts/gary10">GARY 1.0</a>
 
