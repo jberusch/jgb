@@ -41,6 +41,8 @@
     * <a href="https://www.npr.org/2018/07/27/633164558/slack-flickr-stewart-butterfield" target="_blank">Slack & Flickr: Stewart Butterfield</a>
     * <a href="https://www.npr.org/2018/06/22/622601114/lyft-john-zimmer" target="_blank">Lyft: John Zimmer</a>
     * <a href="https://www.npr.org/2018/01/02/562887933/instagram-kevin-systrom-mike-krieger" target="_blank">Instagram: Kevin Systrom & Mike Krieger</a>
+* a16z
+    * <a href="https://podcasts.apple.com/us/podcast/a16z-podcast-inside-apple-software-design/id842818711?i=1000435605773" target="_blank">Inside Apple Software Design</a>
 * Slow Burn, Season 1
     * Every episode. Start at the <a href="https://www.stitcher.com/podcast/panoply/slow-burn-a-podcast-about-watergate" target="_blank">beginning</a>.
 </p></details>
