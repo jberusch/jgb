@@ -12,10 +12,11 @@
 
 * serious
     * startups
-    * computer networks && architecture
     * ML && AI && the singularity
     * urban design & housing segregation
     * juvenile sentencing policy
+    * computer networks && architecture
+    * test
 * less serious
     * musical theater
     * tech history
